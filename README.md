@@ -12,5 +12,5 @@ python new_launcher.py
 
 Step 4: Use it as a chatbot ^^
 
-#Contribute
+# Contribute
 This code and model is contributed by TuyenDM and HiepPV
